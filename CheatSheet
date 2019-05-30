@@ -1,0 +1,28 @@
+[Cheat Sheet To Updating] by Justin Made Specficly (May work on other version NOT!! GUARNTEED) for 10.52
+Just search these string in decompiled code :) via VSCode
+Anypart with NOTE: ignore that part
+
+SCREENSHOT_DETECTOR: "datetaken DESC LIMIT 5");  NOTE: (will have whatsapp in it)
+SNAP_COUNTDOWN_CONTROLLER: j = Math.min(Math.min(a2, j), 1000);
+ENCRYPTED_STREAM_BUILDER: throw new GlideDecodingIoException("Attempting to decode bad file type");
+STORY_METADATA: throw new UnsupportedOperationException("Empty params is immutable");
+SNAP_BASE/SNAP_STATUS: VIEWED_AND_REPLAY_TRANSACTION_PROCESSING,
+RECEIVED_SNAP: + 86400000; NOTE: (UserPrefsImpl IS ABOVE IT)
+RECEIVED_SNAP_ENCRYPTION: a("encrypt should only be called from a background thread");
+RECEIVED_SNAP_PAYLOAD_BUILDER: return "/bq/update_snaps";
+STORY_SNAP_PAYLOAD_BUILDER: return "/bq/update_stories_v2";
+GROUP_SNAP_METADATA: "SNAP_VIEWER_NULL_MEDIA",
+GROUP_SNAP_WRAPPER: this(20);
+STORY_SNAP: int[] iArr = {1, 2, 3, 4}; NOTE: Should be second java.class
+STORY_METADATA_LOADER: String.valueOf(resources.getDimension(R.dimen.sponsored_slug_pos_and_text_hmargin)); NOTE: Should be second java.class
+STORY_ADVANCER: .c -= SystemClock.elapsedRealtime() - aVar.b;
+SENT_IMAGE: throw new IllegalStateException("getZippedVideoWithBitmap - animatedImageOverlayBitmap != null - Animated image Snap Overlay generation failed!", e);
+SENT_VIDEO: .e("DETERMINE_REWIND_VIDEO_CAPABILITIES");
+SENT_BATCHED_VIDEO: a("split_", ".mp4.nomedia");
+ENUM_BATCHED_SNAP_POSITION: BEGIN_AND_END,
+SENT_SNAP_BASE:  throw new UnsupportedOperationException("setFirstFrameBitmap is not implemented for this media type");
+META_DATA_BUILDER: hashMap.put("double_swipe_filter_changes", Integer.toString(i2));
+CHAT_IMAGE_METADATA: .IN_APP_REPORT);
+CHAT_VIDEO_METADATA: this.a.setOnSeekCompleteListener(this); NOTE: Should be second java.class
+CHAT_VIDEO: ? VIDEO_WITH_ANIMATED : VIDEO_WITHOUT_ANIMATED;
+ENUM_SNAP_ADVANCE_MODES: NO_AUTO_ADVANCE,
